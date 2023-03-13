@@ -5,5 +5,5 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on the project about music - Spotify, Deezer
+’m currently working on the project about music - Spotify, Deezer
 
